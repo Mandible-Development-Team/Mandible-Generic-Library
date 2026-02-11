@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fa8e2b3c7caf7ea44b42e539780f19c4, type: 3}
   m_Name: ThrowActionData
   m_EditorClassIdentifier: Mandible.Core::Mandible.Entities.ThrowActionData
-  projectilePrefab: {fileID: 1503232606777850815, guid: 080fd0c329a9cbf4dbd781d553ef58dd, type: 3}
+  projectilePrefab: {fileID: 3692257826968809097, guid: c748fabc1c0529144b8c0535977436c1, type: 3}
   force: 30
   spawnOffset: {x: -0.2, y: 0, z: 0}
   upwardBias: 5
