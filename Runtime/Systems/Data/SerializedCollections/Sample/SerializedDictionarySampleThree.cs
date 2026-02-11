@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Mandible.Systems.Data
+namespace Mandible.Core.Data
 {
     public class SerializedDictionarySampleThree : MonoBehaviour
     {

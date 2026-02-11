@@ -1,3 +1,3 @@
 ﻿using System.Runtime.CompilerServices;
 
-[assembly: InternalsVisibleTo("Mandible.Systems.Data.Editor")]
+[assembly: InternalsVisibleTo("Mandible.Core.Data.Editor")]

@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEditor;
 
-namespace Mandible.Systems.Data
+namespace Mandible.Core.Data
 {
     public abstract class RuntimeObject : ScriptableObject
     {

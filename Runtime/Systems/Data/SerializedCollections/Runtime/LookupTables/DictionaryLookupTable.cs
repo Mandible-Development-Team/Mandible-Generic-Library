@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
 
-namespace Mandible.Systems.Data
+namespace Mandible.Core.Data
 {
     internal class DictionaryLookupTable<TKey, TValue> : IKeyable
     {

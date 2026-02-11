@@ -2,9 +2,9 @@ using UnityEngine;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine.Events;
-using Mandible.Systems.Data;
+using Mandible.Core.Data;
 
-namespace Mandible.Systems.Data
+namespace Mandible.Core.Data
 {
     public class FiniteStateMachine : MonoBehaviour { }
 

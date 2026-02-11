@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using UnityEngine;
 
-namespace Mandible.Systems.Data
+namespace Mandible.Core.Data
 {
     [Conditional("UNITY_EDITOR")]
     public class SerializedDictionaryAttribute : Attribute

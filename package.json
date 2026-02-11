@@ -1,11 +1,11 @@
 {
-  "name": "com.mandible.generic",
+  "name": "com.mandible.core",
   "version": "0.1.0-preview",
-  "displayName": "Mandible Generic Library",
-  "description": "Generic library for Mandible packages",
+  "displayName": "Mandible Core Library",
+  "description": "Core library for Mandible packages",
   "defineConstraints": [
     {
-      "name": "MANDIBLE_GENERIC_LIBRARY"
+      "name": "MANDIBLE_CORE_LIBRARY"
     }
   ]
 }

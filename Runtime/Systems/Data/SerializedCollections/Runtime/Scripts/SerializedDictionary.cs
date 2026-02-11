@@ -3,7 +3,7 @@ using System.Diagnostics;
 using System.Linq;
 using UnityEngine;
 
-namespace Mandible.Systems.Data
+namespace Mandible.Core.Data
 {
     [System.Serializable]
     public class SerializedDictionary<TKey, TValue> : Dictionary<TKey, TValue>, ISerializationCallbackReceiver

@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-namespace Mandible.Systems.Data
+namespace Mandible.Core.Data
 {
     public class Blackboard
     {
