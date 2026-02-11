@@ -1,2 +1,2 @@
-# Mandible-Generic-Library
-Generic library for Mandible packages
+# Mandible-Core-Library
+Core library for Mandible packages
